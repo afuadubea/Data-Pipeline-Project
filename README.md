@@ -1,4 +1,4 @@
-# Data Pipeline Project (ETL)
+# BTC-USA Data Pipeline Project (ETL)
 
 ## Overview
 
