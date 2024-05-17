@@ -42,8 +42,7 @@ except FileNotFoundError:
 # Loop until the current date reaches the end date
 while datetime.datetime.now() < period2:
     # Construct query string with current timestamps
-    query_string = f'https://query1.finance.yahoo.com/v7/finance/download/{ticker}?period1={int(time.mktime(period1.timetuple()))}&period2={int(time.mktime(datetime.datetime.now().timetuple()))}&interval={interval}&events=history&includeAdjustedClose=true'
-
+    query_string = (link to data)
     # Fetch data for the current date
     data = pd.read_csv(query_string)
     
