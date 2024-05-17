@@ -43,9 +43,9 @@ This project is an ETL (Extract, Transform, Load) data pipeline that handles rea
 - Python 3.x
 - Required Python Libraries: boto3, pandas, sqlalchemy, etc.
 
-###Contributing
+### Contributing
 - Contributions are welcome! Please fork the repository and create a pull request.
 
-###License
+### License
 -This project is licensed under the MIT License.
 
