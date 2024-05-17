@@ -41,7 +41,7 @@ This project is an ETL (Extract, Transform, Load) data pipeline that handles rea
 - AWS Redshift Cluster
 - Power BI
 - Python 3.x
-- Required Python Libraries: boto3, pandas, sqlalchemy, etc.
+- Required Python Libraries: boto3, pandas etc.
 
 ### Contributing
 - Contributions are welcome! Please fork the repository and create a pull request.
