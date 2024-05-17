@@ -7,7 +7,7 @@ import zipfile
 import io
 
 # Initialize S3 client
-session = boto3.Session("AKIAQ3EGPG6G4MBQAWWO", "Gg+/fpO+mp942tiuUrpPyhoyQkHia8IoOatjabE6")
+session = boto3.Session(ACCESS_KEY, SECRET_ACCESS_KEY)
 s3 = session.client('s3')
 
 # Specify your bucket name and file name
